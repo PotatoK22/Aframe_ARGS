@@ -1,2 +1,0 @@
-# Aframe_ARGS
-forVRC
